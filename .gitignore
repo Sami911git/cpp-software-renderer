@@ -1,0 +1,21 @@
+# Build output
+build/
+*.o
+*.obj.o
+*.out
+*.exe
+
+# Compiled executable
+/RedNoise
+build/RedNoise
+
+# Rendered frames
+src/frames/
+*.bmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
